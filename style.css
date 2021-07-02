@@ -1,0 +1,73 @@
+body{
+	font-family: montserrat;
+}
+
+.side-padding{
+	padding-left: 90px;
+	padding-right: 90px;
+}
+
+
+.name{
+	padding: 50px;
+	background-color: #5A98D8;
+	color: white;
+	/*padding-top: -290px;*/
+}
+
+.contact-info{
+	background-color: #5A98D8;
+	color: white;
+	display: inline-block;
+	/*font-size:20px;*/ 
+}
+
+h1{
+	text-transform: uppercase;
+	display: inline;
+	margin-right: 510px;
+	margin-bottom: 500px;
+	padding-bottom: 100px;
+	padding-left: 40px;
+	font-size: 35px;
+}
+
+
+span{
+	display: block;
+	font-weight: 700;
+}
+
+h2{
+	
+	border-bottom: 2px solid gray;
+}
+
+.summary-text{
+	line-height: 2;
+	word-spacing:2px;
+	text-align: justify;
+}
+
+.highlights{
+	display: inline-block;
+	margin-right: 200px;
+	word-spacing:2px;
+	text-align: justify;
+}
+
+.highlights-2{
+	display: inline-block;
+	word-spacing:2px;
+	text-align: justify;
+}
+
+.text-formatting{
+	word-spacing:2px;
+	text-align: justify;
+}
+
+.footer{
+	height: 40px;
+	background-color: #5A98D8;
+}
